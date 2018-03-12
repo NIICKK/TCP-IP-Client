@@ -1,0 +1,9 @@
+c:\users\nick\documents\visual studio 2015\Projects\ClientTestVision2\ClientTestVision2\bin\Debug\ClientTestVision2.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\ClientTestVision2\ClientTestVision2\bin\Debug\ClientTestVision2.exe
+c:\users\nick\documents\visual studio 2015\Projects\ClientTestVision2\ClientTestVision2\bin\Debug\ClientTestVision2.pdb
+c:\users\nick\documents\visual studio 2015\Projects\ClientTestVision2\ClientTestVision2\obj\Debug\ClientTestVision2.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2015\Projects\ClientTestVision2\ClientTestVision2\obj\Debug\ClientTestVision2.Form1.resources
+c:\users\nick\documents\visual studio 2015\Projects\ClientTestVision2\ClientTestVision2\obj\Debug\ClientTestVision2.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2015\Projects\ClientTestVision2\ClientTestVision2\obj\Debug\ClientTestVision2.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2015\Projects\ClientTestVision2\ClientTestVision2\obj\Debug\ClientTestVision2.exe
+c:\users\nick\documents\visual studio 2015\Projects\ClientTestVision2\ClientTestVision2\obj\Debug\ClientTestVision2.pdb
